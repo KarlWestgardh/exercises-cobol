@@ -1,0 +1,6 @@
+https://www.mainframestechhelp.com/tutorials/cobol/index.htm
+
+COBOL Coding rules:
+- The four positions(columns) from 8 to 11 are known as Area A, and positions from 12 to 72 are Area B.
+- All division names, section names, paragraph names, FD entries and 01 level numbers must start in Area A.
+- All other sentences must start in Area B.
